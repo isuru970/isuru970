@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
 <h3 align="center">🎓 Software Engineering Undergraduate 💻 Passionate about Web Development, Mobile Applications, and Software Engineering</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
