@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋 I'm Isuru</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
 ---
 
 ### 💻 Tech Stack
@@ -20,23 +24,27 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Socials
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin" />
+  <a href="https://linkedin.com/in/isuru970" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/YOUR_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord" />
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
   </a>
-  <a href="https://youtube.com/@YOUR_HANDLE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube" />
+  &nbsp;
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo" />
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" />
+  &nbsp;
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram" />
+  &nbsp;
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
   </a>
 </div>
 
@@ -45,15 +53,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radar" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radar" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isuru970&show_icons=true&theme=tokyonight&rank_icon=percentile" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuru970&layout=compact&theme=tokyonight&hide_progress=false" height="150" alt="Top Languages" />
 </div>
 
----
+<br />
 
 ### 🏆 GitHub Trophies & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radar" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radar" height="150" alt="trophy graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru970&theme=tokyonight&hide_border=false" height="150" alt="Streak Graph" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=isuru970&theme=tokyonight&column=3&margin-w=15" height="150" alt="Trophies" />
 </div>
